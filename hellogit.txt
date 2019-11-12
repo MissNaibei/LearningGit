@@ -1,0 +1,11 @@
+
+GIT
+
+Created by Linus Torvald.
+Is a version control system - Others are Subversion, Mercurial, Perforce
+Stores files & history of those files.
+
+Github - is an online source code hosting platform. free
+Bitbucket - " free for private; Gitlab
+
+
