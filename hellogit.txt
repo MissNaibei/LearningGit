@@ -8,4 +8,17 @@ Stores files & history of those files.
 Github - is an online source code hosting platform. free
 Bitbucket - " free for private; Gitlab
 
+git init - working directory ->	(Git add .) -> Stage
 
+git add. or git stage
+
+git status
+
+git commit -m "FILENAME" - saves with the given name
+
+
+Google Atlassian Git Cheat Sheet
+
+
+
+Google Atlassian Cheat shit
